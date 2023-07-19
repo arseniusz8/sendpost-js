@@ -14,7 +14,7 @@ To publish the library as a [npm](https://www.npmjs.com/), please follow the pro
 Then install it via:
 
 ```shell
-npm install sendpost-js' --save
+npm install sendpost-js --save
 ```
 
 ### For browser
